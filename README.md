@@ -1,7 +1,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=darkun7.darkun7)
 ### Hi I'm Darkun7 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hi, I'm [Hartawan Bahari M](https://kulacino.my.id/). Undergraduate students at The **University of Jember** with a Major in **Computer Science**. I was interested in Back-end, Cloud Computing, and Machine Learning.
+Hi, I'm [Hartawan Bahari M](https://kulacino.my.id/). Final years students at The **University of Jember** with a Major in **Computer Science**. I was interested in Back-end, Cloud Computing, and Machine Learning.
 
 <div align="center">
   
@@ -28,14 +28,13 @@ Hi, I'm [Hartawan Bahari M](https://kulacino.my.id/). Undergraduate students at 
 <a href="https://github.com/darkun7?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-326994?style=flat-square&logo=Python&logoColor=F7C738"></a>
 <a href="https://github.com/darkun7?tab=repositories&language=javascript" target="_blank"><img alt="JS" src="https://img.shields.io/badge/-js-DFA01C?style=flat-square&logo=Javascript&logoColor=000000"></a>
 <a href="https://github.com/darkun7?tab=repositories&language=php" target="_blank"><img alt="php" src="https://img.shields.io/badge/-php-4D588E?style=flat-square&logo=Php&logoColor=white"></a>
+  <a href="https://github.com/darkun7?tab=repositories&language=javascript" target="_blank"><img alt="GO" src="https://img.shields.io/badge/-go-6AD7E5?style=flat-square&logo=Go&logoColor=000000"></a>
 </div>
 
 ---
   
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=darkun7&rank=SECRET,SSS,SS,S,AAA,AA,A&row=3&column=4&margin-w=15&margin-h=15&theme=discord"/>
-</a>
-
+<img src="https://github-profile-trophy.vercel.app/?username=darkun7&rank=SECRET,SSS,SS,S,AAA,AA,A&row=3&column=4&margin-w=15&margin-h=15&theme=discord"/>
+  
 <div align="center">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=darkun7&theme=algolia&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkun7&layout=compact&theme=algolia" />
