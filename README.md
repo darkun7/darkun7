@@ -1,7 +1,7 @@
-
 ![](https://visitor-badge.glitch.me/badge?page_id=darkun7.darkun7)
 ### Hi I'm Darkun7 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Hi, I'm [Hartawan Bahari M](https://kulacino.my.id/). Final years students at The **University of Jember** with a Major in **Computer Science**. I was interested in Back-end, Cloud Computing, and Machine Learning.
+Hi, I'm [Hartawan Bahari M](https://kulacino.my.id/). Fresh Graduate of The **University of Jember** with a Major in **Computer Science**. I was interested in Back-end, Cloud Computing, and Machine Learning.
+Now I working as full-time **Fullstack Developer** that using Laravel + Vue stack, but also handle machine learning things due to also part of **RnD**.
 
 <div align="center">
 <a href="#hi-im-darkun7-">
